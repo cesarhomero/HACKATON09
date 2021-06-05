@@ -3,4 +3,4 @@
 2. Quién fue el creador de JavaScript?
     Brendan Eich
 3. ¿Por qué se llamó JavaScript?
-    Por Marketing, ya que "Java" era la palabra de moda en esas épocas en el medio tecnológico.
+    Por Marketing, ya que "Java" era la palabra de moda en esas épocas en el medio tecnológico.git
